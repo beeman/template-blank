@@ -1,2 +1,2 @@
-# template-blank
-Blank Template
+# template-html
+HTML Template
